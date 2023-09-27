@@ -1,0 +1,38 @@
+{
+  "organization-chart": {
+    "root": {
+      "id": 1,
+      "name": "John Doe",
+      "department": "IT",
+      "role": "Developer",
+      "isEvaluated": false,
+      "children": [
+        {
+          "id": 2,
+          "name": "Jane Doe",
+          "department": "IT",
+          "role": "Developer",
+          "isEvaluated": true,
+          "children": [
+            {
+              "id": 3,
+              "name": "Jack Doe",
+              "department": "IT",
+              "role": "Developer",
+              "isEvaluated": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Jill Doe",
+          "department": "IT",
+          "role": "Developer",
+          "isEvaluated": false,
+          "children": []
+        }
+      ]
+    }
+  }
+}
