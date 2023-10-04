@@ -1,0 +1,22 @@
+{
+  "humanSideProfile": {
+    "behaviorStyle": {
+      "images": {
+        "observedChart": "",
+        "naturalChart": "",
+        "projectedChart": ""
+      },
+      "mainCharacteristiscs": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt aliquam, nunc nisl aliquet nunc, nec aliquam nisl nunc quis nisl. N",
+      "naturalProfile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt aliquam, nunc nisl aliquet nunc, nec aliquam nisl nunc quis nisl. N",
+      "projectedProfile": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt aliquam, nunc nisl aliquet nunc, nec aliquam nisl nunc quis nisl. N"
+    },
+    "valuesOrInterests": {
+      "valuesChart": "",
+      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt aliquam, nunc nisl aliquet nunc, nec aliquam nisl nunc quis nisl. N"
+    },
+    "thinkingProcess": {
+      "thinkingProcessChart": "",
+      "comments": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl quis tincidunt aliquam, nunc nisl aliquet nunc, nec aliquam nisl nunc quis nisl. N"
+    }
+  }
+}
