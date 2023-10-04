@@ -1,8 +1,28 @@
 {
   "jobProfile": {
-    "scolarship": "Bac + 5",
-    "skills": "Java, Spring, Angular, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP",
-    "experiences": "3 years of experience",
-    "achievements": "I have worked on several projects in different sectors such as banking, insurance, industry, etc. I have also worked on several technologies such as Java, Spring, Angular, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP, etc."
+    "managerRole": "Gerente de Compras",
+    "profile": {
+      "scolarship": "Bac + 5",
+      "skills": "Java, Spring, Angular, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP",
+      "experiences": "3 years of experience",
+      "achievements": "I have worked on several projects in different sectors such as banking, insurance, industry, etc. I have also worked on several technologies such as Java, Spring, Angular, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP, etc."
+    },
+    "humanSide": [
+      {
+        "factor": "Estilo",
+        "image": "",
+        "description": "Soy una persona que le gusta trabajar en equipo, compartir y aprender de los demás."
+      },
+      {
+        "factor": "Valores",
+        "image": "",
+        "description": "Soy una persona que le gusta trabajar en equipo, compartir y aprender de los demás."
+      },
+      {
+        "factor": "Proceso Pensante",
+        "image": "",
+        "description": "Soy una persona que le gusta trabajar en equipo, compartir y aprender de los demás."
+      }
+    ]
   }
 }
