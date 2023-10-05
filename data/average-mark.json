@@ -1,0 +1,24 @@
+{
+  "averageMarks": [
+    {
+      "name": "Autoevaluación",
+      "value": 90
+    },
+    {
+      "name": "Jefe",
+      "value": 80
+    },
+    {
+      "name": "Cliente/Proveedor",
+      "value": 70
+    },
+    {
+      "name": "Colateral",
+      "value": 60
+    },
+    {
+      "name": "Colaboradores",
+      "value": 50
+    }
+  ]
+}
