@@ -2,22 +2,27 @@
   "averageMarks": [
     {
       "name": "Autoevaluación",
+      "color": "#ff0000",
       "value": 90
     },
     {
       "name": "Jefe",
+      "color": "#f2d110",
       "value": 80
     },
     {
       "name": "Cliente/Proveedor",
+      "color": "#00ff00",
       "value": 70
     },
     {
       "name": "Colateral",
+      "color": "#0000ff",
       "value": 60
     },
     {
       "name": "Colaboradores",
+      "color": "#ff00ff",
       "value": 50
     }
   ]
