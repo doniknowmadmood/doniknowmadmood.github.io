@@ -64,6 +64,11 @@
         "color": "#00a65a",
         "isOriginalValue": true
       }
-    ]
+    ],
+    "colors": {
+      "high": "#00a65a",
+      "medium": "#f1ff11",
+      "low": "#ff0444"
+    }
   }
 }
