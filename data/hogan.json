@@ -1,0 +1,162 @@
+{
+  "hogan": {
+    "hpi": {
+      "header": {
+        "acronym": "HPI",
+        "name": "Inventario de personalidad de Hogan"
+      },
+      "color": "yellow.400",
+      "progressBars": {
+        "values": [
+          {
+            "title": "Estabilidad Emocional",
+            "value": 34
+          },
+          {
+            "title": "Ambición",
+            "value": 60
+          },
+          {
+            "title": "Sociabilidad",
+            "value": 100
+          },
+          {
+            "title": "Sensibilidad Interpersonal",
+            "value": 34
+          },
+          {
+            "title": "Prudencia",
+            "value": 34
+          },
+          {
+            "title": "Curiosidad",
+            "value": 90
+          },
+          {
+            "title": "Estilo de aprendizaje",
+            "value": 64
+          }
+        ]
+      },
+      "levels": ["Bajo", "Promedio", "Alto"],
+      "comments": {
+        "text": "El Inventario de Personalidad de Hogan (HPI) mide la reputación de un individuo en el lugar de trabajo. El HPI está basado en el modelo de los cinco factores de la personalidad y mide siete escalas primarias y seis escalas de desempeño. Estas escalas primarias son: ajuste, ambición, sociabilidad, sensibilidad interpersonal, prudencia, curiosidad y estilo de aprendizaje."
+      }
+    },
+    "hds": {
+      "header": {
+        "acronym": "HDS",
+        "name": "Encuesta de Desarrollo de Hogan"
+      },
+      "color": "orange.400",
+      "progressBars": {
+        "values": [
+          {
+            "title": "Volatil",
+            "value": 34
+          },
+          {
+            "title": "Esceptico",
+            "value": 60
+          },
+          {
+            "title": "Cauteloso",
+            "value": 100
+          },
+          {
+            "title": "Reservado",
+            "value": 34
+          },
+          {
+            "title": "Pasivo-Agresivo",
+            "value": 34
+          },
+          {
+            "title": "Arrogante",
+            "value": 90
+          },
+          {
+            "title": "Arriesgado",
+            "value": 90
+          },
+          {
+            "title": "Melodramático",
+            "value": 90
+          },
+          {
+            "title": "Imaginativo",
+            "value": 60
+          },
+          {
+            "title": "Perfeccionista",
+            "value": 50
+          },
+          {
+            "title": "Complaciente",
+            "value": 70
+          }
+        ]
+      },
+      "levels": ["Sin riesgo", "Bajo riesgo", "Riesgo moderado", "Alto riesgo"],
+      "comments": {
+        "text": "La Encuesta de Desarrollo de Hogan (HDS) identifica las tendencias interpersonales y las características que pueden obstaculizar el éxito. Esta evaluación de personalidad está basada en el modelo de los cinco factores y mide once escalas primarias que abarcan seis áreas de riesgo: volatilidad, escepticismo, cautela, reserva, pasivo-agresividad y arrogancia."
+      }
+    },
+    "mvpi": {
+      "header": {
+        "acronym": "MVPI",
+
+        "name": "Inventario de Motivos, Valores y Preferencias de Hogan"
+      },
+      "color": "blue.400",
+      "progressBars": {
+        "values": [
+          {
+            "title": "Reconocimiento",
+            "value": 34
+          },
+          {
+            "title": "Poder",
+            "value": 60
+          },
+          {
+            "title": "Hedonismo",
+            "value": 100
+          },
+          {
+            "title": "Altruismo",
+            "value": 34
+          },
+          {
+            "title": "Afiliación",
+            "value": 34
+          },
+          {
+            "title": "Tradición",
+            "value": 90
+          },
+          {
+            "title": "Seguridad",
+            "value": 90
+          },
+          {
+            "title": "Comercio",
+            "value": 90
+          },
+          {
+            "title": "Estética",
+            "value": 60
+          },
+          {
+            "title": "Ciencia",
+            "value": 50
+          }
+        ]
+      },
+      "levels": ["Bajo", "Promedio", "Alto"],
+      "comments": {
+        "text": "El Inventario de Motivos, Valores y Preferencias de Hogan (MVPI) mide los motivos, valores y preferencias de una persona. El MVPI está basado en el modelo de los cinco factores de la personalidad y mide diez escalas primarias que abarcan seis áreas de motivación: reconocimiento, poder, afiliación, tradición, seguridad y estética."
+      }
+    }
+  }
+}
