@@ -1,7 +1,7 @@
 {
   "positionVsPersonAnalysis": [
     {
-      "pond": 20,
+      "pond": "20",
       "factor": {
         "rowTitle": "Estilo",
         "leftImage": "",
@@ -11,7 +11,7 @@
       "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit."
     },
     {
-      "pond": 10,
+      "pond": "10",
       "factor": {
         "rowTitle": "Intereses",
         "leftImage": "",
@@ -21,7 +21,7 @@
       "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit."
     },
     {
-      "pond": 15,
+      "pond": "15",
       "factor": {
         "rowTitle": "Proceso Pensante",
         "leftImage": "",
