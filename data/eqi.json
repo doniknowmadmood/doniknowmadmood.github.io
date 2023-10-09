@@ -1,0 +1,109 @@
+{
+  "eqi": {
+    "eqiTable": {
+      "headers": [
+        "Área de oportunidad",
+        "Habilidad menos desarrollada",
+        "Habilidad en Equipo",
+        "Habilidad más desarrollada"
+      ],
+      "data": [
+        {
+          "header": "Total hsei",
+          "value": 50
+        },
+        {
+          "header": "INTERPERSONAL",
+          "value": 50
+        },
+        {
+          "header": "Autoconcepto",
+          "value": 50
+        },
+        {
+          "header": "Conciencia Emocional",
+          "value": 50
+        },
+        {
+          "header": "Independencia",
+          "value": 50
+        },
+        {
+          "header": "Impulso",
+          "value": 50
+        },
+        {
+          "header": "INTERPERSONAL",
+          "value": 50
+        },
+        {
+          "header": "Asertividad",
+          "value": 50
+        },
+        {
+          "header": "Empatía",
+          "value": 50
+        },
+        {
+          "header": "Responsabilidad Social",
+          "value": 50
+        },
+        {
+          "header": "Relaciones Interpersonales",
+          "value": 50
+        },
+        {
+          "header": "Resolución de conflictos",
+          "value": 50
+        },
+        {
+          "header": "REALIZACIÓN PRODUCTIVA",
+          "value": 50
+        },
+        {
+          "header": "Objetividad",
+          "value": 50
+        },
+        {
+          "header": "Flexibilidad",
+          "value": 50
+        },
+        {
+          "header": "Flexibilidad",
+          "value": 50
+        },
+        {
+          "header": "Solución de problemas",
+          "value": 50
+        },
+        {
+          "header": "Realización Personal",
+          "value": 50
+        },
+        {
+          "header": "Tolerancia a la presión",
+          "value": 50
+        },
+        {
+          "header": "ACTITUD EN LA VIDA",
+          "value": 50
+        },
+        {
+          "header": "Optimismo",
+          "value": 50
+        },
+        {
+          "header": "Felicidad",
+          "value": 50
+        }
+      ]
+    },
+    "ranges": [">= 82", "62 a 81", "42 a 61", "<= 41"],
+    "skills": [
+      "Más desarrollada",
+      "En equilibrio",
+      "Menos desarrollada",
+      "Áreas de oportunidad"
+    ]
+  }
+}
