@@ -1,0 +1,34 @@
+{
+  "positionVsPersonAnalysis": [
+    {
+      "pond": 20,
+      "factor": {
+        "rowTitle": "Estilo",
+        "leftImage": "",
+        "rightImages": ["", "", ""]
+      },
+      "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+      "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit."
+    },
+    {
+      "pond": 10,
+      "factor": {
+        "rowTitle": "Intereses",
+        "leftImage": "",
+        "rightImages": [""]
+      },
+      "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+      "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit."
+    },
+    {
+      "pond": 15,
+      "factor": {
+        "rowTitle": "Proceso Pensante",
+        "leftImage": "",
+        "rightImages": [""]
+      },
+      "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+      "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit."
+    }
+  ]
+}
