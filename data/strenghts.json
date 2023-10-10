@@ -1,0 +1,66 @@
+{
+  "strenghts": {
+    "organizationalSkills": {
+      "labels": [
+        "Empuje por obtener resultados",
+        "Cultiva la innovación",
+        "Colabora",
+        "Agilidad de aprendizaje",
+        "Calidad de las decisiones",
+        "Enfoque estratégico",
+        "Enfoque en el cliente"
+      ],
+      "dataSets": [
+        {
+          "label": "Autoevaluación",
+          "data": [5, 5, 5, 5, 5, 5, 5]
+        },
+        {
+          "label": "Jefe",
+          "data": [3, 5, 4, 4, 4, 4, 4]
+        },
+        {
+          "label": "Cliente proveedor",
+          "data": [4, 4, 4, 4, 4, 4, 4]
+        },
+        {
+          "label": "Colateral",
+          "data": [4, 4, 4, 4, 4, 4, 4]
+        },
+        {
+          "label": "Colaborador",
+          "data": [4, 4, 4, 4, 4, 4, 4]
+        }
+      ]
+    },
+    "functionalSkills": {
+      "labels": [
+        "Asesoría de negocios e implementación de soluciones",
+        "Diseño y ejecución de procesos institucionales",
+        "Liderazgo"
+      ],
+      "dataSets": [
+        {
+          "label": "Autoevaluación",
+          "data": [5, 5, 5]
+        },
+        {
+          "label": "Jefe",
+          "data": [4, 4, 4]
+        },
+        {
+          "label": "Cliente proveedor",
+          "data": [4, 4, 3]
+        },
+        {
+          "label": "Colateral",
+          "data": [4, 4, 4]
+        },
+        {
+          "label": "Colaborador",
+          "data": [4, 4, 4]
+        }
+      ]
+    }
+  }
+}
