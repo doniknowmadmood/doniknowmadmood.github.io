@@ -10,7 +10,7 @@
         "Enfoque estratégico",
         "Enfoque en el cliente"
       ],
-      "dataSets": [
+      "datasets": [
         {
           "label": "Autoevaluación",
           "data": [5, 5, 5, 5, 5, 5, 5]
@@ -39,7 +39,7 @@
         "Diseño y ejecución de procesos institucionales",
         "Liderazgo"
       ],
-      "dataSets": [
+      "datasets": [
         {
           "label": "Autoevaluación",
           "data": [5, 5, 5]
