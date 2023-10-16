@@ -1,6 +1,6 @@
 {
   "jobProfile": {
-    "managerRole": "Gerente de Compras",
+    "positionId": 31956,
     "profile": {
       "scolarship": "Bac + 5",
       "skills": "Java, Spring, Angular, SQL, NoSQL, Docker, Kubernetes, AWS, Azure, GCP",
