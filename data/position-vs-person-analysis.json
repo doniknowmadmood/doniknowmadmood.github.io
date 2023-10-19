@@ -1,40 +1,51 @@
 {
-  "positionVsPersonAnalysis": [
-    {
-      "pond": "20",
-      "factor": {
-        "rowTitle": "Estilo",
-        "leftImage": "",
-        "rightImages": ["", "", ""]
+  "positionVsPersonAnalysis": {
+    "data": [
+      {
+        "pond": "20",
+        "factor": {
+          "rowTitle": "Estilo",
+          "leftImage": "",
+          "rightImages": ["", "", ""]
+        },
+        "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+        "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+        "points": 3.8,
+        "score": 76
       },
-      "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
-      "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
-      "points": 3.8,
-      "score": 76
+      {
+        "pond": "10",
+        "factor": {
+          "rowTitle": "Intereses",
+          "leftImage": "",
+          "rightImages": [""]
+        },
+        "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+        "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+        "points": 4.5,
+        "score": 45
+      },
+      {
+        "pond": "15",
+        "factor": {
+          "rowTitle": "Proceso Pensante",
+          "leftImage": "",
+          "rightImages": [""]
+        },
+        "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+        "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
+        "points": 4.5,
+        "score": 67.5
+      }
+    ],
+    "extraData": {
+      "subtotal": 83.8,
+      "test": {
+        "name": "Wonderlic",
+        "value": 34,
+        "result": "Superior"
+      }
     },
-    {
-      "pond": "10",
-      "factor": {
-        "rowTitle": "Intereses",
-        "leftImage": "",
-        "rightImages": [""]
-      },
-      "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
-      "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
-      "points": 4.5,
-      "score": 45
-    },
-    {
-      "pond": "15",
-      "factor": {
-        "rowTitle": "Proceso Pensante",
-        "leftImage": "",
-        "rightImages": [""]
-      },
-      "adaptations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
-      "opportinityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla euismod, nisl quis ultricies ultricies, nisl quam ultricies elit, quis ultricies elit elit euismod elit.",
-      "points": 4.5,
-      "score": 67.5
-    }
-  ]
+    "assessmentDate": "2023-10-18T11:15:50Z"
+  }
 }
