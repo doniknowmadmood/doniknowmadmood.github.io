@@ -1,0 +1,56 @@
+{
+  "positionVsPersonAnalysis": [
+    {
+      "factor": "Conocimientos",
+      "ponderation": 20,
+      "personalForces": ["Carrera profesional:", "Maestría:", "Inglés:"],
+      "opportunityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam",
+      "points": 5,
+      "totalScore": 100
+    },
+    {
+      "factor": "Competencias",
+      "ponderation": 15,
+      "personalForces": {
+        "organizational": [
+          { "name": "Empuje por obtener resultados", "color": "#002069" },
+          { "name": "Cultiva la innovación", "color": "#ff7c22" },
+          { "name": "Colabora", "color": "#608941" },
+          { "name": "Agilidad de aprendizaje", "color": "#608941" },
+          { "name": "Calidad de las decisiones", "color": "#608941" },
+          { "name": "Enfoque estratégico", "color": "#608941" },
+          { "name": "Enfoque en el cliente", "color": "#608941" }
+        ],
+        "function": [
+          {
+            "name": "Asesoría y gestión de distribuidores",
+            "color": "#002069"
+          },
+          { "name": "Negociación y análisis", "color": "#ff7c22" },
+          { "name": "Conocimiento del consumidor", "color": "#608941" },
+          { "name": "Excelencia en ejecución", "color": "#608941" }
+        ]
+      },
+      "opportunityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam",
+      "points": 2.5,
+      "totalScore": 37.5
+    },
+    {
+      "factor": "Experiencia y logros",
+      "ponderation": 20,
+      "personalForces": [
+        {
+          "name": "Experiencia",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam"
+        },
+        {
+          "name": "Logros",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam"
+        }
+      ],
+      "opportunityAreas": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros quis nisl aliquam",
+      "points": 5,
+      "totalScore": 100
+    }
+  ]
+}
