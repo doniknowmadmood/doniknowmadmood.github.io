@@ -21,7 +21,7 @@
           { "name": "Enfoque estratégico", "color": "#608941" },
           { "name": "Enfoque en el cliente", "color": "#608941" }
         ],
-        "function": [
+        "functionals": [
           {
             "name": "Asesoría y gestión de distribuidores",
             "color": "#002069"
