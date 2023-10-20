@@ -4,70 +4,62 @@
       {
         "name": "Empuje por obtención de resultados",
         "value": 94,
-        "color": "#00a65a",
-        "isOriginalValue": true
+        "needsRevision": false
       },
       {
         "name": "Cultura de innovación",
         "value": 50,
-        "color": "#ff0444",
-        "isOriginalValue": true
+        "needsRevision": false
       },
       {
         "name": "Colabora",
         "value": 50,
-        "color": "#ff0444",
-        "isOriginalValue": false
+        "needsRevision": false
       },
       {
         "name": "Agilidad de aprendizaje",
         "value": 70,
-        "color": "#f1ff11",
-        "isOriginalValue": true
+        "needsRevision": true
       },
       {
         "name": "Calidad de las decisiones",
         "value": 90,
-        "color": "#00a65a",
-        "isOriginalValue": true
+        "needsRevision": false
       },
       {
         "name": "Enfoque estratégico",
-        "value": 90,
-        "color": "#00a65a",
-        "isOriginalValue": true
+        "value": 89,
+        "needsRevision": false
       },
       {
         "name": "Enfoque al cliente",
         "value": 70,
-        "color": "#f1ff11",
-        "isOriginalValue": true
+        "needsRevision": false
       }
     ],
     "functionals": [
       {
         "name": "Asesoría de negocios e implementación de soluciones",
         "value": 90,
-        "color": "#00a65a",
-        "isOriginalValue": true
+        "needsRevision": false
       },
       {
         "name": "Diseño y ejecución de procesos institucionales",
         "value": 90,
-        "color": "#00a65a",
-        "isOriginalValue": true
+        "needsRevision": false
       },
       {
         "name": "Liderazgo",
         "value": 90,
-        "color": "#00a65a",
-        "isOriginalValue": true
+        "needsRevision": false
       }
     ],
     "colors": {
-      "high": "#00a65a",
-      "medium": "#f1ff11",
-      "low": "#ff0444"
+      "90-100": "#002069",
+      "85-89": "#608941",
+      "80-84": "#fec92d",
+      "70-79": "#ff7c22",
+      "60-69": "#cb2910"
     }
   }
 }
