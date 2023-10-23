@@ -1,0 +1,45 @@
+{
+  "individualDevelopmentPlan": {
+    "data": [
+      {
+        "developmentPriority": "DESARROLLO DE COLABORADORES",
+        "developmentAction": [
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et.",
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et.",
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et."
+        ],
+        "advance": {
+          "percentages": ["100", "70", "100"],
+          "description": "Anim fugiat dolore eiusmod officia laboris."
+        }
+      },
+      {
+        "developmentPriority": "INNOVACIÓN",
+        "developmentAction": [
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et.",
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et.",
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et."
+        ],
+        "advance": {
+          "percentages": ["40", "70", "50"],
+          "description": "Anim fugiat dolore eiusmod officia laboris."
+        }
+      },
+      {
+        "developmentPriority": "LIDERAZGO",
+        "developmentAction": [
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et.",
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et.",
+          "Ea elit pariatur non officia aliquip ex officia est sit ullamco excepteur in et."
+        ],
+        "advance": {
+          "percentages": ["80", "0", "80"],
+          "description": "Anim fugiat dolore eiusmod officia laboris."
+        }
+      }
+    ],
+    "successPhoto": "Est minim quis magna occaecat amet proident occaecat est. Reprehenderit aute sint minim proident minim ut incididunt fugiat est excepteur est. Irure labore qui aliqua amet ullamco do laboris.",
+    "assessmentDate": "2023-09-26T11:55:41.779Z",
+    "advanceDate": "2023-09-25T11:55:41.779Z"
+  }
+}
