@@ -14,15 +14,15 @@
         },
         {
           "header": "INTERPERSONAL",
-          "value": 50
+          "value": 90
         },
         {
           "header": "Autoconcepto",
-          "value": 50
+          "value": 80
         },
         {
           "header": "Conciencia Emocional",
-          "value": 50
+          "value": 70
         },
         {
           "header": "Independencia",
@@ -30,15 +30,15 @@
         },
         {
           "header": "Impulso",
-          "value": 50
+          "value": 25
         },
         {
           "header": "INTERPERSONAL",
-          "value": 50
+          "value": 10
         },
         {
           "header": "Asertividad",
-          "value": 50
+          "value": 100
         },
         {
           "header": "Empatía",
@@ -46,23 +46,23 @@
         },
         {
           "header": "Responsabilidad Social",
-          "value": 50
+          "value": 45
         },
         {
           "header": "Relaciones Interpersonales",
-          "value": 50
+          "value": 60
         },
         {
           "header": "Resolución de conflictos",
-          "value": 50
+          "value": 75
         },
         {
           "header": "REALIZACIÓN PRODUCTIVA",
-          "value": 50
+          "value": 88
         },
         {
           "header": "Objetividad",
-          "value": 50
+          "value": 98
         },
         {
           "header": "Flexibilidad",
@@ -70,31 +70,31 @@
         },
         {
           "header": "Flexibilidad",
-          "value": 50
+          "value": 23
         },
         {
           "header": "Solución de problemas",
-          "value": 50
+          "value": 32
         },
         {
           "header": "Realización Personal",
-          "value": 50
+          "value": 46
         },
         {
           "header": "Tolerancia a la presión",
-          "value": 50
+          "value": 57
         },
         {
           "header": "ACTITUD EN LA VIDA",
-          "value": 50
+          "value": 78
         },
         {
           "header": "Optimismo",
-          "value": 50
+          "value": 87
         },
         {
           "header": "Felicidad",
-          "value": 50
+          "value": 89
         }
       ]
     },
