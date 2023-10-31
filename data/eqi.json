@@ -14,87 +14,97 @@
         },
         {
           "header": "INTERPERSONAL",
-          "value": 90
+          "value": 90,
+          "children": [
+            {
+              "header": "Autoconcepto",
+              "value": 80
+            },
+            {
+              "header": "Conciencia Emocional",
+              "value": 70
+            },
+            {
+              "header": "Independencia",
+              "value": 50
+            },
+            {
+              "header": "Impulso",
+              "value": 25
+            }
+          ]
         },
-        {
-          "header": "Autoconcepto",
-          "value": 80
-        },
-        {
-          "header": "Conciencia Emocional",
-          "value": 70
-        },
-        {
-          "header": "Independencia",
-          "value": 50
-        },
-        {
-          "header": "Impulso",
-          "value": 25
-        },
+
         {
           "header": "INTERPERSONAL",
-          "value": 10
-        },
-        {
-          "header": "Asertividad",
-          "value": 100
-        },
-        {
-          "header": "Empatía",
-          "value": 50
-        },
-        {
-          "header": "Responsabilidad Social",
-          "value": 45
-        },
-        {
-          "header": "Relaciones Interpersonales",
-          "value": 60
-        },
-        {
-          "header": "Resolución de conflictos",
-          "value": 75
+          "value": 10,
+          "children": [
+            {
+              "header": "Asertividad",
+              "value": 100
+            },
+            {
+              "header": "Empatía",
+              "value": 50
+            },
+            {
+              "header": "Responsabilidad Social",
+              "value": 45
+            },
+            {
+              "header": "Relaciones Interpersonales",
+              "value": 60
+            },
+            {
+              "header": "Resolución de conflictos",
+              "value": 75
+            }
+          ]
         },
         {
           "header": "REALIZACIÓN PRODUCTIVA",
-          "value": 88
+          "value": 88,
+          "children": [
+            {
+              "header": "Objetividad",
+              "value": 98
+            },
+            {
+              "header": "Flexibilidad",
+              "value": 50
+            },
+            {
+              "header": "Flexibilidad",
+              "value": 23
+            },
+            {
+              "header": "Solución de problemas",
+              "value": 32
+            },
+            {
+              "header": "Realización Personal",
+              "value": 46
+            },
+            {
+              "header": "Tolerancia a la presión",
+              "value": 57
+            }
+          ]
         },
-        {
-          "header": "Objetividad",
-          "value": 98
-        },
-        {
-          "header": "Flexibilidad",
-          "value": 50
-        },
-        {
-          "header": "Flexibilidad",
-          "value": 23
-        },
-        {
-          "header": "Solución de problemas",
-          "value": 32
-        },
-        {
-          "header": "Realización Personal",
-          "value": 46
-        },
-        {
-          "header": "Tolerancia a la presión",
-          "value": 57
-        },
+
         {
           "header": "ACTITUD EN LA VIDA",
-          "value": 78
-        },
-        {
-          "header": "Optimismo",
-          "value": 87
-        },
-        {
-          "header": "Felicidad",
-          "value": 89
+          "value": 78,
+          "children": [
+            {
+              "header": "Optimismo",
+              "value": 87
+            },
+            {
+              "header": "Felicidad",
+              "value": 89
+            }
+          ]
         }
       ]
     },
