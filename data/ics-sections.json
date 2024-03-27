@@ -1,0 +1,33 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "name": "Experiència laboral",
+      "observaciones": "Comprova els teus serveis prestats al PDF CV-SGRH, situat a la part superior dreta",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "name": "Dades academiques",
+      "observaciones": "Comprova que totes les dades acadèmiques que has cursat apareixen en el PDF CV-SGRH situat a la part superior dreta",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "name": "Formació continuada",
+      "observaciones": "Hores de formació validades: 100.0. Comprova que tota la formació continuada que has cursat està en el PDF CV-SGRH situat a la part superior dreta i en els grups A1 i A2 el doctorat, mestratges universitaris oficials relacionats amb la categoria o les especialitats pròpies de la categoria general convocada",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "name": "Certificat CATALÀ",
+      "observaciones": ["Facultatius Medicina C1 (suficiència)"],
+      "complete": false
+    },
+    {
+      "id": 5,
+      "name": "Certificats ACTIC",
+      "complete": true
+    }
+  ]
+}
